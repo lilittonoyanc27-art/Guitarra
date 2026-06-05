@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներեն Թվեր և Մեղեդի",
+  "description": "Սովորեք իսպաներեն թվերը 1-ից 100-ը հայերենից իսպաներեն թարգմանությամբ և ստեղծեք ձեր սեփական մեղեդին ճիշտ պատասխաններով ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
